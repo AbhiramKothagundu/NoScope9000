@@ -45,6 +45,10 @@ Epoch 30/30
 Test Accuracy: 0.9077
 ```
 
+### **Training Plots:**
+
+![Training and Validation Loss and Accuracy](data/plot_loss_accuracy_over_epochs.png)
+
 ## **How It Works**
 
 1. **Train the Model:** The dataset is preprocessed, normalized, and trained using TensorFlow.
